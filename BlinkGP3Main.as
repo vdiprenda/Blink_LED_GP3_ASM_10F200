@@ -8,6 +8,7 @@
 ; CERTIFIED : GP3 goes on, but just stays solid. Not CERTIFIED
 ;
 ; Problem: The LED just stays solid. I know that GP3 is a special case. Let's follow up with the doc
+; UPDATE: GP3 Is input only - This program won't work
 ;
 ; Description:
 ;
