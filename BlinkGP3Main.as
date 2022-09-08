@@ -7,6 +7,9 @@
 ; IDE:      MPLABX v5.40
 ; CERTIFIED : GP3 goes on, but just stays solid. Not CERTIFIED
 ;
+; Problem: The LED just stays solid. I know that GP3 is a special case. Let's follow up with the doc
+; UPDATE: GP3 Is input only - This program won't work
+;
 ; Description:
 ;
 ;   Example 2 project for the PIC10F200 controller using the pic-as(v2.31) 
